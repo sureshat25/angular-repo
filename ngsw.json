@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1652630313727,
+  "timestamp": 1652631287205,
   "index": "https://sureshat25.github.io/angular-repo/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://sureshat25.github.io/angular-repo/favicon.ico",
         "https://sureshat25.github.io/angular-repo/index.html",
-        "https://sureshat25.github.io/angular-repo/main.69e65c71415598b6.js",
+        "https://sureshat25.github.io/angular-repo/main.f77aae7ddc81bce2.js",
         "https://sureshat25.github.io/angular-repo/manifest.webmanifest",
         "https://sureshat25.github.io/angular-repo/polyfills.9b9bb27aabad6cdd.js",
         "https://sureshat25.github.io/angular-repo/runtime.afca2b769ee224b5.js",
@@ -52,8 +52,8 @@
     "https://sureshat25.github.io/angular-repo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://sureshat25.github.io/angular-repo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://sureshat25.github.io/angular-repo/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://sureshat25.github.io/angular-repo/index.html": "9ba336efbcb4c587deadec575fe6e0ed280ac434",
-    "https://sureshat25.github.io/angular-repo/main.69e65c71415598b6.js": "8ee535ae109ad7a3cde514b0e64b6b7f7d3e7a64",
+    "https://sureshat25.github.io/angular-repo/index.html": "a525b689b232ac84956d395d8b9a2be5ce9ca263",
+    "https://sureshat25.github.io/angular-repo/main.f77aae7ddc81bce2.js": "e8d7742e4b05eb081b59816eef974e8f26b6713e",
     "https://sureshat25.github.io/angular-repo/manifest.webmanifest": "b6b64c6839a1cb35da8668018e743e88948d4a52",
     "https://sureshat25.github.io/angular-repo/polyfills.9b9bb27aabad6cdd.js": "15277abd586fc465055e68b33efa261bb56e5c33",
     "https://sureshat25.github.io/angular-repo/runtime.afca2b769ee224b5.js": "54102ceae2e2c9f52dbdc0b8c3e714c3698a20c7",
